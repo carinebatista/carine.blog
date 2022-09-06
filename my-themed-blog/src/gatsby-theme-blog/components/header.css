@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500&display=swap');
+
+ul{
+	list-style: none;
+	display: flex;
+	gap: 1rem;
+}
+
+a{
+	text-decoration: none;
+	color: #fff;
+}
+
+.header{
+	max-width: 672px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 6vh;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
